@@ -1,4 +1,4 @@
-* Smoosh all ingredients together.
+* Smoosh ingredients together.
 Serve with potato chips.
 $ git add . && git commit -m
 I want Haas Avocados!!!!
