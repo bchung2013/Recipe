@@ -1,5 +1,6 @@
 * Smoosh ingredients together.
 Serve with potato chips.
 conflict line!!!!!!
+add line
 $ git add . && git commit -m
 I want Haas Avocados!!!!
